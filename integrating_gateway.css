@@ -32,6 +32,7 @@
     color : blue;
     border-color : lightblue;
     border-radius : 10px;
+    font-weight : bold;
   }
 
 #b:hover{
